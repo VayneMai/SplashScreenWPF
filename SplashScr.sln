@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScr", "SplashScr\SplashScr.csproj", "{EE75C63F-24A5-4034-B680-1D615B2D65B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE75C63F-24A5-4034-B680-1D615B2D65B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE75C63F-24A5-4034-B680-1D615B2D65B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE75C63F-24A5-4034-B680-1D615B2D65B7}.Debug|x64.ActiveCfg = Debug|x64
+		{EE75C63F-24A5-4034-B680-1D615B2D65B7}.Debug|x64.Build.0 = Debug|x64
+		{EE75C63F-24A5-4034-B680-1D615B2D65B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE75C63F-24A5-4034-B680-1D615B2D65B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE75C63F-24A5-4034-B680-1D615B2D65B7}.Release|x64.ActiveCfg = Release|x64
+		{EE75C63F-24A5-4034-B680-1D615B2D65B7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0950751F-E346-46CD-9F41-A16D7333BE49}
+	EndGlobalSection
+EndGlobal
